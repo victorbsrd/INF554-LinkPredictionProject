@@ -1,0 +1,23 @@
+==> 2019-12-13 19:34:17 <==
+# cmd: /softs/Utils/anaconda3/bin/conda create --prefix ./conda_env
+# conda version: 4.5.11
+==> 2019-12-13 20:00:56 <==
+# cmd: /softs/Utils/anaconda3/bin/conda install git
+# conda version: 4.5.11
++defaults::_libgcc_mutex-0.1-main
++defaults::ca-certificates-2019.11.27-0
++defaults::expat-2.2.6-he6710b0_0
++defaults::git-2.23.0-pl526hacde149_0
++defaults::krb5-1.16.1-h173b8e3_7
++defaults::libcurl-7.67.0-h20c2e04_0
++defaults::libedit-3.1.20181209-hc058e9b_0
++defaults::libgcc-ng-9.1.0-hdf63c60_0
++defaults::libssh2-1.8.2-h1ba5d50_0
++defaults::libstdcxx-ng-9.1.0-hdf63c60_0
++defaults::ncurses-6.1-he6710b0_1
++defaults::openssl-1.1.1d-h7b6447c_3
++defaults::pcre-8.43-he6710b0_0
++defaults::perl-5.26.2-h14c3975_0
++defaults::tk-8.6.8-hbc83047_0
++defaults::zlib-1.2.11-h7b6447c_3
+# update specs: ['git']

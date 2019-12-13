@@ -1,0 +1,4 @@
+[http]
+	sslVerify = true
+	sslCAPath = /scratch/students/a.d-andoque/INF554-LinkPredictionProject/conda_env/ssl/cacert.pem
+	sslCAInfo = /scratch/students/a.d-andoque/INF554-LinkPredictionProject/conda_env/ssl/cacert.pem
