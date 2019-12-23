@@ -11,7 +11,20 @@ Pb de classification de C
  2. Modèle de classification 
 
     
+## to look
 
+Graph related metric
+http://be.amazd.com/link-prediction/
+
+link prediction based on graph neural net
+http://papers.nips.cc/paper/7763-link-prediction-based-on-graph-neural-networks.pdf
+
+link pred social ntw
+http://www.leonidzhukov.net/hse/2016/networks/papers/SNDA11.pdf
+
+graph embedding technics and perfo
+https://arxiv.org/pdf/1705.02801.pdf
+https://github.com/palash1992/GEM
   
 
 ##  To look into :
