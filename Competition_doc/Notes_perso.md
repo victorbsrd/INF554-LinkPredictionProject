@@ -12,7 +12,10 @@ Pb de classification de C
 
     
 
-  
+## to look too
+predicting links via correlation
+https://arxiv.org/pdf/1409.8485v1.pdf
+
 
 ##  To look into :
 
